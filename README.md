@@ -13,7 +13,7 @@
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Psychophysics-Books/blob/master/ych(7).pdf" style="text-decoration:none;">Psychophysical Approaches to Cognition</a></b></li>
 
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Psychophysics-Books/blob/master/ych(8).rar" style="text-decoration:none;">Psychophysics Beyond Sensation: Laws and Invariants of Human Cognition </a></b></li>
-
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Psychophysics-Books/blob/master/ych(9).pdf" style="text-decoration:none;">Functional and Neural Mechanisms of Interval Timing (Frontiers in Neuroscience)</a></b></li> 
    
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Psychophysics-Books/blob/master/ych(10).pdf" style="text-decoration:none;">Psychophysics: A Practical Introduction</a></b></li>                              
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Psychophysics-Books/blob/master/ych(11).pdf" style="text-decoration:none;">Quantitative Sensory Analysis: Psychophysics, Models and Intelligent Design</a></b></li>
@@ -28,7 +28,7 @@
 
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Psychophysics-Books/blob/master/ych(17).pdf" style="text-decoration:none;">The Psychophysics of Speech Perception</a></b></li>   
   
-
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Psychophysics-Books/blob/master/ych(18).pdf" style="text-decoration:none;">Methods in Comparative Psychoacoustics</a></b></li>   
  
  
  
